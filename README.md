@@ -43,7 +43,7 @@ rainfall-prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/rainfall-prediction.git
+   git clone https://github.com/Rohan-GitHub-A/Rainfall_Prediction_Using_ML.git
    cd rainfall-prediction
    ```
 
@@ -54,7 +54,7 @@ rainfall-prediction/
 
 3. **Run the project**
    ```bash
-   python main.py
+   python Rainfall_Prediction_Using_ML.ipynb
    ```
 
 ## 📈 Model Development Process
@@ -148,7 +148,6 @@ The final model uses these meteorological features:
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Specify your data source here]
 - Scikit-learn documentation and community
 - Weather prediction research papers and methodologies
 
