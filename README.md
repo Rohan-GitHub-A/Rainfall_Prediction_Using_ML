@@ -35,7 +35,7 @@ rainfall-prediction/
 ├── DataSets/
 │   └── Rainfall.csv
 ├── rainfall_prediction_model.pkl
-├── main.py
+├── Rainfall_Prediction_Using_ML.py
 └── README.md
 ```
 
